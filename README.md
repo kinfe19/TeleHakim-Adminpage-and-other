@@ -3,14 +3,23 @@
 ## Login Form
 ## Member Registration
  •	Fullname
+ 
  •	Gender
+ 
  •	Data of birth
+ 
  •	Phone number
+ 
  •	Email
+ 
  •	Address
+ 
  •	Profile Picture
+ 
  •	Username
+ 
  •	Password
+ 
 ## Admin Dashboard
  •	Number of Patients
  •	Number of Doctors
