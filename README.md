@@ -1,56 +1,56 @@
 # TeleHakim-Adminpage-and-other
 
-##Login Form
-##Member Registration
-•	Fullname
-•	Gender
-•	Data of birth
-•	Phone number
-•	Email
-•	Address
-•	Profile Picture
-•	Username
-•	Password
-##Admin Dashboard
-•	Number of Patients
-•	Number of Doctors
-•	Number of Services
-•	Income
-##Patient Information – Add, update
-•	Fullname
-•	Gender
-•	Data of birth
-•	Phone number
-•	Email
-•	Address
-•	Profile Picture
-•	Username
-•	Password
-•	Status – pending, active, inactive
-##Doctor Information
-•	Full name
-•	Gender
-•	Qualification – text area
-•	Profile Picture
-•	Email
-•	Contact
-•	Clinic Map
-•	Username
-•	Password
-•	Account Status – pending, active, inactive
-##Services
-•	Service Name
-•	Amount
-•	Doctor
-Payment List
-•	Appointment Code
-•	Doctor
-•	Patient
-•	Service
-•	Amount
-•	Status – accepted, declined, pending
-•	Remarks
-##Income Report
+## Login Form
+## Member Registration
+ •	Fullname
+ •	Gender
+ •	Data of birth
+ •	Phone number
+ •	Email
+ •	Address
+ •	Profile Picture
+ •	Username
+ •	Password
+## Admin Dashboard
+ •	Number of Patients
+ •	Number of Doctors
+ •	Number of Services
+ •	Income
+## Patient Information – Add, update
+ •	Fullname
+ •	Gender
+ •	Data of birth
+ •	Phone number
+ •	Email
+ •	Address
+ •	Profile Picture
+ •	Username
+ •	Password
+ •	Status – pending, active, inactive
+## Doctor Information
+ •	Full name
+ •	Gender
+ •	Qualification – text area
+ •	Profile Picture
+ •	Email
+ •	Contact
+ •	Clinic Map
+ •	Username
+ •	Password
+ •	Account Status – pending, active, inactive
+## Services
+ •	Service Name
+ •	Amount
+ •	Doctor
+## Payment List
+ •	Appointment Code
+ •	Doctor
+ •	Patient
+ •	Service
+ •	Amount
+ •	Status – accepted, declined, pending
+ •	Remarks
+## Income Report
  
  
 Doctor Account
@@ -67,7 +67,7 @@ List of Appointments
 •	Amount
 •	Meeting Link – Google Meet, Zoom
 •	Status – pending, cancelled, approved, completed
-##Income Report by Service
+## Income Report by Service
  
  
 Patient Account
@@ -78,7 +78,7 @@ View Doctor Profile and View Map
 •	Doctor name
 •	Map
 •	Services
-##Reserve Appointment
+## Reserve Appointment
 •	Doctor
 •	Service
 •	Date
@@ -86,7 +86,7 @@ View Doctor Profile and View Map
 •	Remarks
 •	Meeting Link – Google Meet, Zoom
 •	Status – pending, cancelled, approved, completed
-##Payment
+## Payment
 •	Appointment code
 •	Doctor
 •	Service
