@@ -22,9 +22,13 @@
  
 ## Admin Dashboard
  •	Number of Patients
+ 
  •	Number of Doctors
+ 
  •	Number of Services
+ 
  •	Income
+ 
 ## Patient Information – Add, update
  •	Fullname
  •	Gender
