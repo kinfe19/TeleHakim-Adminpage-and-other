@@ -276,8 +276,36 @@ about
 	padding-bottom: 10px;
 }
 /***************************************
-doctor team
-***************************************/
+doctor team*/
+
+.team-img {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .doctor-rating {
+    margin-top: 5px;
+  }
+  .rating-input {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  .rating-input input[type="radio"] {
+    display: none;
+  }
+  .rating-input label {
+    color: #ddd;
+    font-size: 20px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  .rating-input input[type="radio"]:checked + label {
+    color: #ffcc00;
+  }
+
+/***************************************/
 .thumbnail {
 	border-radius: 0px;
 }
